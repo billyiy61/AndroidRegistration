@@ -37,10 +37,10 @@ public class ThirdAcivity extends AppCompatActivity {
         String Log = intent.getStringExtra("log");
         String Password = intent.getStringExtra("pass");
 
-        txtFName.setText("Твое Имя " + fName);
-        txtLName.setText("Твоя Фамилия " + lName);
-        txtLogin.setText("Твой Логин " + Log);
-        txtPass.setText("Твой Пароль " + Password);
+        txtFName.setText("Твое Имя: " + fName);
+        txtLName.setText("Твоя Фамилия: " + lName);
+        txtLogin.setText("Твой Логин: " + Log);
+        txtPass.setText("Твой Пароль: " + Password);
 
 
     }

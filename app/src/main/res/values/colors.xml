@@ -8,4 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="orange">#FFA500</color>
+    <color name="JornoPurple">#b25fac</color>
+    <color name="JornoGolden">#f1d67d</color>
+    <color name="JornoDarkPurple">#42407a</color>
 </resources>

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/orange">
+    android:background="@color/JornoPurple">
     <TextView
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
@@ -12,7 +12,8 @@
         android:text=""
         android:layout_marginTop="20dp"
         android:layout_gravity="center_horizontal"
-        android:id="@+id/txtFName">
+        android:id="@+id/txtFName"
+        android:textColor="@color/JornoGolden">
     </TextView>
 
     <TextView
@@ -22,7 +23,8 @@
         android:text=""
         android:layout_marginTop="20dp"
         android:layout_gravity="center_horizontal"
-        android:id="@+id/txtLName">
+        android:id="@+id/txtLName"
+        android:textColor="@color/JornoGolden">
     </TextView>
 
     <TextView
@@ -32,7 +34,8 @@
         android:text=""
         android:layout_marginTop="20dp"
         android:layout_gravity="center_horizontal"
-        android:id="@+id/txtLogin">
+        android:id="@+id/txtLogin"
+        android:textColor="@color/JornoGolden">
     </TextView>
 
     <TextView
@@ -42,6 +45,7 @@
         android:text=""
         android:layout_marginTop="20dp"
         android:layout_gravity="center_horizontal"
-        android:id="@+id/txtPass">
+        android:id="@+id/txtPass"
+        android:textColor="@color/JornoGolden">
     </TextView>
 </LinearLayout>
